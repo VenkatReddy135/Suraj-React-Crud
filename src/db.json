@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "name": "venkat",
+      "userName": "VenkateshwarReddy Bogala",
+      "email": "venkat.vv564@gmail.com",
+      "mobile": "8297043538",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

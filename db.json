@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "name": "venkat",
+      "userName": "Reddy",
+      "email": "Venkat@gmail.com",
+      "mobile": "99999999",
+      "id": 1
+    }
+  ]
+}
